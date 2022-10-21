@@ -1,0 +1,142 @@
+.container {
+    text-align: center;
+    width: 100%;
+}
+
+.todo-list {
+    padding-top: 20px;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+    color: darkorchid;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.para1 {
+    font-family: monospace;
+}
+
+::placeholder {
+    color: #fff;
+    font-family: monospace;
+}
+.day {
+    color: darkorchid;
+}
+
+.input-form {
+    width: 50%;
+    height: 3rem;
+    color: #fff;
+    background-color: darkorchid;
+    padding-left: 3rem;
+    padding-right: 8rem;
+    font-size: 1.2rem;
+}
+
+.icon {
+    margin: 25px;
+    color: darkorchid;
+    font-size: larger;
+    text-align: left;
+    cursor: pointer;
+}
+
+.icon1 {
+    margin: 5px;
+    color: darkorchid;
+    font-size: larger;
+    text-align: left;
+    cursor: pointer;
+}
+
+/* table style */
+.table {
+    width: 100%;
+    padding-top: 3rem;
+    text-align: center;
+}
+
+.saved {
+    float: left;
+    width: 30%;
+    background-color: #26D07C
+}
+h3{
+    font-family: monospace;
+}
+
+.recent {
+    float: left;
+    width: 30%;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    background-color: darkorchid
+}
+
+.deleted {
+    float: left;
+    width: 30%;
+    background-color: #ff6347
+}
+
+/* table style */
+
+h3{
+    font-family: monospace
+}
+.table-recent{
+    padding-left: 0.5rem;
+    padding-top: 0.5rem;
+    padding-left: 0.5rem;
+    color: #fff;
+}
+.input-form1 {
+    color: black;
+    width: 70%;
+    height: 3rem;
+    padding-left: 1rem;
+    font-family: monospace;
+    cursor: pointer;
+}
+
+.icon2{
+    color: #fff;
+    margin-right: 1.1rem;
+    font-size: larger;
+   cursor: pointer;
+}
+.icon2:hover{
+    transform: scale(1.3);
+}
+.icon3:hover{
+    transform: scale(1.3);
+}
+.icon:hover{
+    transform: scale(1.3);
+}
+.icon1:hover{
+    transform: scale(1.3);
+}
+
+.icon3{
+    color: #fff;
+    margin-left: 1.1rem;
+    font-size: larger;
+    cursor: pointer;
+}
+
+/* .first-block{
+    height: 9vh;
+    width: 54vh;
+    background-color: white;
+    margin: 4vh;
+    color: #26D07C;
+    align-items: center;
+    font-size: larger;
+
+} */
+
+small{
+    color: #fff;
+    font-size: x-small;
+}
